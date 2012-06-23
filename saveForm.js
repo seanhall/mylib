@@ -5,3 +5,4 @@ $('input, select, textarea').each(function() {
 	}
 }); 
 localStorage["formdata"] = JSON.stringify(values);
+console.log('test');
