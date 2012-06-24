@@ -1,1 +1,2 @@
-This is a repository for a std JS lib I am working on.  This is also my first Git/GitHub repository.
+saveForm.js: a little utility to save non-hidden form inputs/values to localStorage for reuse
+fillForm.js: extracts form values from saveForm.js JSON object and populates form
